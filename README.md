@@ -3,3 +3,4 @@
 📈 sou fan de algoritmos, otimização e eficiência.
 
 viva o open-source!
+sinta-se livre para dar uma olhadinha em meus repositórios
